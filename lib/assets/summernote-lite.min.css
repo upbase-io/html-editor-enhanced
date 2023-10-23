@@ -1442,6 +1442,10 @@ a.note-dropdown-item, a.note-dropdown-item:hover {
     max-width:100%;
 }
 
+.note-editor .note-editing-area .note-editable p img {
+    max-width:100%;
+}
+
 .note-editor .note-editing-area .note-editable ul[data-type="taskList"] {
     list-style: none;
     padding: 0;
